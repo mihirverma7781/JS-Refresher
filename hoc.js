@@ -3,6 +3,7 @@
 2. Functional programming uses this type of code
 3. maprad function is similar to map
 4. also it is a polyfill for map
+5. polyfills are noting but alternatives of any functionality
 */
 
 const radius = [1, 3, 2, 4];
