@@ -2,7 +2,9 @@
 /*
 1. fucntions are first class citizens.
 2. you can pass a function in another function.
-2. the function that is passed as argument is known as callback function.
+3. the function that is passed as argument is known as callback function.
+4. multiple downloads can cause an callback hell
+5. callbacks has inversion of control (tracking the code execution flow is not easy)
 */
 
 function download(url, callback) {
